@@ -21,7 +21,7 @@ Normalmente estructuro de esta manera, intenté usar lo más posible de herramie
 
 * **Si hubieras tenido mucho más tiempo... ¿qué habrías añadido?** 
     
-    Validadores, un poco de animaciónes para hacerla más dinámica.
+    Validadores, los empecé pero no los terminé :p, un poco de animaciónes para hacerla más dinámica.
 
 
 * **Si no has realizado tests, ¿qué herramientas habrías utilizado para llevarlos a cabo?**
@@ -86,7 +86,7 @@ Normalmente estructuro de esta manera, intenté usar lo más posible de herramie
                     },
                 },
                 css: {
-                    level: 'Medium',
+                    level: 'Advanced',
                     libs: ['sass','bootstrap','framework7','vuetyfy','and_more'] 
                 },
                 pug: {
